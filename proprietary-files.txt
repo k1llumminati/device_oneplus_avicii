@@ -1498,7 +1498,7 @@ system_ext/lib64/libwfduibcsink.so|63ea93b1a6aec75a294baf50007270807a819e21
 system_ext/lib64/libwfduibcsinkinterface.so|39c123bd9a4d7a8fa317f8ed4d86972dcfab0423
 system_ext/lib64/libwfduibcsrc.so|5557f3bd58c37b7e3b28e13f2f86d55930b14ab6
 system_ext/lib64/libwfduibcsrcinterface.so|77cead9bf7b60384fe1e11dc2b25bd99af0b4608
-system_ext/priv-app/WfdService/WfdService.apk|7191da7d336f6018ee292af4e69167677b9f5bd1
+system_ext/priv-app/WfdService/WfdService.apk|500d3519748156c2bb9fb1da40fa574970a139fa
 
 # WiFi Display (vendor)
 vendor/bin/wfdhdcphalservice
